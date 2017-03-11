@@ -1,10 +1,8 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "http://ma-al.github.io/hugo-test"
 languageCode = "en-us"
-title = "Hugrid - Quack"
+title = "Hugrid - Quack Test"
 theme = "hugrid"
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
 
 contentdir = "content"
 datadir = "data"
